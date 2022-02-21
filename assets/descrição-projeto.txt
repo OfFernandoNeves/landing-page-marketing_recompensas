@@ -1,0 +1,22 @@
+- Qual problema você escolheu?
+
+Lojas de compras precisam fidelizar seus 
+seus clientes através de um sistema de pontos
+
+- Qual é a solução?
+
+Desenvolver um site de cadastro de aluno onde o usuário cadastra
+
+suas Notas Fiscais e essas notas geram uma pontuação e nele o usuário p
+
+articipa de sorteios e soma pontos para serem resgatados.
+
+- Link para o seu projeto no Github
+
+- Link para o seu projeto funcionando em uma hospedagem gratuita
+
+- Fotos do projeto
+
+
+
+
