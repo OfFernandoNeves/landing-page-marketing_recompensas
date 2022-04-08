@@ -6,18 +6,22 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+header {
+    display: grid;
+    position: fixed;
+    top: 0;
+    background: #590222;
+    width: 100%;
+    height: 20%;
+}
 body
 {
     background: #C4C4C4;
 }
-header
-{
+footer {
     position: fixed;
+    bottom: 0;
     background: #590222;
     width: 100%;
-    height: 15%;
-    padding: 50px;
-}
-header .img_header
-{
+    height: 20%;
 }
